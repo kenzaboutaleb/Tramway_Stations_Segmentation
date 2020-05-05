@@ -1,0 +1,71 @@
+﻿Station;Ligne;lat;long;Quartier
+Sidi Moumen;T1;33.587459;-7.500901;Sidi Moumen
+Nassim;T1;33.585144;-7.504294;Sidi Moumen
+Mohammed Zefzaf;T1;33.582373;-7.508647;Sidi Moumen
+Centre de maintenance;T1;33.579540;-7.513432;Sidi Moumen
+Hôpital Sidi Moumen;T1;33.576385;-7.518045;Sidi Moumen
+Attacharouk;T1;33.573866;-7.525059;Sidi Moumen
+Sidi Moumen - Okba Ibnou Nafi;T1;33.573113;-7.532503;Sidi Moumen
+Forces Auxiliaires;T1;33.574731;-7.539091;Bournazel
+Hay Raja;T1;33.576784;-7.548366;Bournazel
+Ibn Tachfine;T1;33.580939;-7.563200;Hay Mohammadi
+Hay Mohammadi;T1;33.585503;-7.566773;Hay Mohammadi
+Achouhada;T1;33.588959;-7.567951;Hay Mohammadi
+Ali Yata;T1;33.591472;-7.569812;Hay Mohammadi
+Grande Ceinture;T1;33.590554;-7.573562;Hay Mohammadi
+Anciens Abattoirs;T1;33.590878;-7.577891;Hay Mohammadi
+Bahmad;T1;33.594716;-7.586615;Belvédère
+Gare de Casa-Voyageurs;T1;33.590443;-7.592148;Belvédère
+Place Al Yassir;T1;33.592973;-7.597161;Belvédère
+La Résistance;T1;33.593488;-7.603080;Belvédère
+Mohammed Diouri;T1;33.593758;-7.608409;Derb Omar
+Marché Central;T1;33.594597;-7.612459;Derb Omar
+Place des Nations-Unies;T1;33.595389;-7.618072;Centre Ville
+Place Mohammed V;T1;33.589527;-7.620105;Centre Ville
+Avenue Hassan II;T1;33.583938;-7.623243;Centre Ville
+Wafasalaf;T1;33.579985;-7.624875;Les Hôpitaux
+Faculté de Médecine;T1;33.575427;-7.625778;Les Hôpitaux
+Abdelmoumen;T1;33.571031;-7.625945;Les Hôpitaux
+Bachkou;T1;33.564396;-7.627269;Maârif
+Mekka;T1;33.558255;-7.629708;Oasis
+Gare de l'Oasis;T1;33.554989;-7.630975;Oasis
+Panoramique;T1;33.547044;-7.631889;Oasis
+Technopark;T1;33.544812;-7.637988;Sidi Maarouf
+Zénith;T1;33.540774;-7.642878;Sidi Maarouf
+Gare de Casa-Sud;T1;33.542035;-7.650931;Sidi Maarouf
+Facultés;T1;33.545797;-7.657386;Sidi Maarouf
+Al Laymoun;T1;33.540349;-7.666175;Sidi Maarouf
+Lissasfa;T1;33.535469;-7.669924;Sidi Maarouf
+Aïn Diab;T2;33.587679;-7.680779;Aïn Diab
+Littoral;T2;33.581119;-7.674878;Hay Hassani
+Hay Hassani;T2;33.576491;-7.672792;Hay Hassani
+Sidi Abderrahmane;T2;33.571941;-7.669396;Hay Hassani
+Cité de l'Air;T2;33.568473;-7.664507;Hay Hassani
+Abdellah Ben Cherif;T2;33.565833;-7.660195;Hay Hassani
+Place Financière;T2;33.562148;-7.660933;Hay Hassani
+Anfa Park;T2;33.559710;-7.657358;Hay Hassani
+Anfa Clubs;T2;33.561430;-7.652775;Hay Hassani
+Beauséjour;T2;33.564669;-7.647813;Beauséjour
+Ghandi;T2;33.568661;-7.644679;Maârif
+Riviera;T2;33.570968;-7.635927;Maârif
+Derb Ghalef;T2;33.570072;-7.631757;Maârif
+Anoual;T2;33.569515;-7.625079;Al Fida
+Hermitage;T2;33.569243;-7.618062;Al Fida
+2 mars;T2;33.569141;-7.612411;Al Fida
+El Fida;T2;33.566540;-7.607230;Al Fida
+Place Sraghna;T2;33.569599;-7.602236;Al Fida
+Derb Sultan;T2;33.572134;-7.595875;Al Fida
+Hay Farah;T2;33.571718;-7.586383;Al Fida
+Derb Milan;T2;33.572040;-7.580764;Hay Mohammadi
+Cimetière Achouhada;T2;33.576668;-7.574392;Hay Mohammadi
+Hay Adil;T2;33.579341;-7.568129;Hay Mohammadi
+Mdakra;T2;33.581330;-7.563314;Hay Mohammadi
+Kissariat Hay Mohammadi;T2;33.587204;-7.563645;Hay Mohammadi
+Carrières Centrales;T2;33.592887;-7.564464;Aïn Sebaa
+Dar Laman;T2;33.593857;-7.557394;Aïn Sebaa
+Wifaq;T2;33.595709;-7.538016;Aïn Sebaa
+Al Aman;T2;33.599227;-7.532880;Aïn Sebaa
+Préfecture d'Aïn Sebaâ;T2;33.602354;-7.529857;Aïn Sebaa
+Gare d'Aïn Sebaâ;T2;33.607410;-7.524396;Aïn Sebaa
+Abou Dar Al Ghifari;T2;33.606716;-7.518009;Sidi Bernoussi
+Sidi Bernoussi;T2;33.610172;-7.509899;Sidi Bernoussi
